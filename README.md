@@ -6,30 +6,30 @@
 
 > Projeto de forum realizado com Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos Matheus Araújo e Ian Moura
 
-
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Ter o visual studio code instalado
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Rodando o projeto localmente
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Atualmente, só é possível rodar o projeto localmente, com os arquivos em seu computador. Para que consiga rodar e usufruir do projeto, siga estas etapas:
 
-Linux e macOS:
+---Baixando diretamente pelo github---
+1 - Baixe o projeto aqui clicando no botão verde escrito "<>CODE" e então em "Download ZIP"
+2 - Extraia o ZIP num local apropriado
+3 - Com o Visual Studio Code, abra a pasta "forum"
+4 - Dentro do Visual Studio, abra o terminal (Crtl + Shift + ') e digite "php artisan serve"
+5 - Quando estiver tudo pronto aparecerá uma mensagem dizendo que o server está rodando no seu ip. Segure Crtl e clique no ip para abrir o projeto(Alternativamente você pode copiar e colar o ip no seu navegador).
 
-```
-<comando_de_instalação>
-```
+---Baixando pelo Git Clone---
+1 - Cria uma pasta de qualquer nome na localização desejada e abra ela com o Visual Studio
+2 - Abra o terminal(Crtl + Shift + ')  e digite o seguinte: Git clone https://github.com/matheusaraujo121/forum.git 
+3 - Quando ele terminar de transferir os arquivos,  abra a pasta forum com o Visual Studio
+4 - Digite no terminal "php artisan serve"
+5 - Quando estiver tudo pronto aparecerá uma mensagem dizendo que o server está rodando no seu ip. Segure Crtl e clique no ip para abrir o projeto(Alternativamente você pode copiar e colar o ip no seu navegador).
 
-Windows:
 
-```
-<comando_de_instalação>
-```
 
 ## ☕ Usando <nome_do_projeto>
 
