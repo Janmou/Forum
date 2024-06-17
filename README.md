@@ -23,14 +23,14 @@ Ter o visual studio code instalado 👍
 
 Atualmente, só é possível rodar o projeto localmente, com os arquivos em seu computador. Para que consiga rodar e usufruir do projeto, siga estas etapas:
 
----Baixando diretamente pelo github---
+### Baixando diretamente pelo github
 1. Baixe o projeto aqui clicando no botão verde escrito "<>CODE" e então em "Download ZIP"
 2. Extraia o ZIP num local apropriado
 3. Com o Visual Studio Code, abra a pasta "forum"
 4. Dentro do Visual Studio, abra o terminal (Crtl + Shift + ') e digite "php artisan serve"
 5. Quando estiver tudo pronto aparecerá uma mensagem dizendo que o servidor está rodando no seu ip. Segure Crtl e clique no ip para abrir o projeto(Alternativamente você pode copiar e colar o ip no seu navegador).
 
----Baixando pelo Git Clone---
+### Baixando pelo Git Clone
 1. Crie uma pasta de qualquer nome na localização desejada e abra ela com o Visual Studio
 2. Abra o terminal(Crtl + Shift + ')  e digite o seguinte: Git clone https://github.com/matheusaraujo121/forum.git 
 3. Quando ele terminar de transferir os arquivos,  abra a pasta forum com o Visual Studio
