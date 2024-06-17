@@ -5,9 +5,9 @@
 <img src="https://i.pinimg.com/736x/59/12/57/591257010d40a0dc442bc54e3a2084fd.jpg" alt="Exemplo imagem">
 
 
-## Sobre o Projeto
+## 💡 Sobre o Projeto
 
-É Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos Matheus Araújo e Ian Moura
+É um Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos Matheus Araújo e Ian Moura
 
 ### Feito com
 
