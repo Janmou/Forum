@@ -7,7 +7,8 @@
 
 ## 💡 Sobre o Projeto
 
-É um Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos Matheus Araújo e Ian Moura
+É um Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos 
+Matheus Araújo e Ian Moura, do curso de ADS da Fatec Sorocaba, módulo AMS.
 
 ### Feito com
 
@@ -27,30 +28,18 @@ Atualmente, só é possível rodar o projeto localmente, com os arquivos em seu 
 2. Extraia o ZIP num local apropriado
 3. Com o Visual Studio Code, abra a pasta "forum"
 4. Dentro do Visual Studio, abra o terminal (Crtl + Shift + ') e digite "php artisan serve"
-5. Quando estiver tudo pronto aparecerá uma mensagem dizendo que o server está rodando no seu ip. Segure Crtl e clique no ip para abrir o projeto(Alternativamente você pode copiar e colar o ip no seu navegador).
+5. Quando estiver tudo pronto aparecerá uma mensagem dizendo que o servidor está rodando no seu ip. Segure Crtl e clique no ip para abrir o projeto(Alternativamente você pode copiar e colar o ip no seu navegador).
 
 ---Baixando pelo Git Clone---
 1. Crie uma pasta de qualquer nome na localização desejada e abra ela com o Visual Studio
 2. Abra o terminal(Crtl + Shift + ')  e digite o seguinte: Git clone https://github.com/matheusaraujo121/forum.git 
 3. Quando ele terminar de transferir os arquivos,  abra a pasta forum com o Visual Studio
 4. Digite no terminal "php artisan serve"
-5. Quando estiver tudo pronto aparecerá uma mensagem dizendo que o server está rodando no seu ip. Segure Crtl e clique no ip para abrir o projeto(Alternativamente você pode copiar e colar o ip no seu navegador).
+5. Quando estiver tudo pronto aparecerá uma mensagem dizendo que o servidor está rodando no seu ip. Segure Crtl e clique no ip para abrir o projeto(Alternativamente você pode copiar e colar o ip no seu navegador).
 
+## 📫 Contribuindo para o Forum Gamer's Web
 
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 📫 Contribuindo para <nome_do_projeto>
-
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com nosso projeto, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -68,9 +57,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://imagenes.elpais.com/resizer/v2/7XAYMNZ56VHQ3EP3L6LVO6CL7M.jpg?auth=96bb3ec224478c859117cebcd701c8ec805e9204abc77efdb2c65df7898a0b08&width=980" width="100px;" alt="Foto do Bolsonaro no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Jair Bolsonaro</b>
         </sub>
       </a>
     </td>
@@ -92,10 +81,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
 ## 📝 Licença
 
