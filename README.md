@@ -7,7 +7,7 @@
 
 ## 💡 Sobre o Projeto
 
-É um Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos 
+É um Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas Avançadas de Programação , pelos alunos 
 Matheus Araújo e Ian Moura, do curso de ADS da Fatec Sorocaba, módulo AMS.
 
 ### Feito com
