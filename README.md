@@ -2,13 +2,20 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="https://i.pinimg.com/736x/59/12/57/591257010d40a0dc442bc54e3a2084fd.jpg" alt="Exemplo imagem">
 
-> Projeto de forum realizado com Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos Matheus Araújo e Ian Moura
+
+## Sobre o Projeto
+
+É Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas de Programação Avançadas Web e Mobile, pelos alunos Matheus Araújo e Ian Moura
+
+### Feito com
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## 💻 Pré-requisitos
 
-Ter o visual studio code instalado
+Ter o visual studio code instalado 👍
 
 
 ## 🚀 Rodando o projeto localmente
