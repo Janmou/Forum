@@ -9,7 +9,7 @@
 
 É um Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas Avançadas de Programação , pelos alunos 
 Matheus Araújo e Ian Moura, do curso de ADS da Fatec Sorocaba, módulo AMS.
-<br>Realizamos um forum sobre jogos onde os usuários podem interagir entre si para discutir sobre jogos novos e velhos, fáceis e difíceis, ruins e bons. É um projeto voltado para os "gamers", tendo varios tópicos e assuntos sobre o que nos faz feliz.
+<br>Realizamos um forum sobre jogos onde os usuários podem interagir entre si para discutir sobre jogos novos e velhos, fáceis e difíceis, ruins e bons. É um projeto voltado para os "gamers", tendo varios tópicos e assuntos sobre o que nos faz feliz.<br>
 <br>Observação: Não traduzimos os erros de validação do Laravel com Inteligência Artificial. Nos baseamos no projeto do programador [Rafael Laurindo](https://github.com/rafaellaurindo/laravel-traducao-pt-br/blob/master/validation.php).
 
 ### Hierarquia
@@ -62,40 +62,3 @@ Para contribuir com nosso projeto, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://imagenes.elpais.com/resizer/v2/7XAYMNZ56VHQ3EP3L6LVO6CL7M.jpg?auth=96bb3ec224478c859117cebcd701c8ec805e9204abc77efdb2c65df7898a0b08&width=980" width="100px;" alt="Foto do Bolsonaro no GitHub"/><br>
-        <sub>
-          <b>Jair Bolsonaro</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
