@@ -2,13 +2,26 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-<img src="https://i.pinimg.com/736x/59/12/57/591257010d40a0dc442bc54e3a2084fd.jpg" alt="Exemplo imagem">
+<img src="gamerr.jpg" alt="esboco logo forum">
 
 
 ## 💡 Sobre o Projeto
 
 É um Projeto de forum realizado em Laravel com a assistência do professor André Cassulino de Técnicas Avançadas de Programação , pelos alunos 
 Matheus Araújo e Ian Moura, do curso de ADS da Fatec Sorocaba, módulo AMS.
+Realizamos um forum sobre jogos onde os usuários podem interagir entre si para discutir sobre jogos novos e velhos, fáceis e difíceis, ruins e bons. É um projeto voltado para os "gamers", tendo varios tópicos e assuntos sobre o que nos faz feliz.
+Observação: Não traduzimos os erros de validação do Laravel com Inteligência Artificial. Nos baseamos no projeto do programador [Rafael Laurindo](https://github.com/rafaellaurindo/laravel-traducao-pt-br/blob/master/validation.php).
+
+### Hierarquia
+Possuimos três classes de usuário: moderador, usuário registrado e visitante. O moderador tem o dever de manter o forum funcionando de maneira agradavel para todos, resolvendo problemas e ajudando outros membros.
+O usuário registrado pode interagir como você espera, mas não pode acessar ferramentas de moderador como lista de usuários e  gerir denúncias.
+Os visitantes não podem interagir, apenas visualizar.
+
+### Login de moderador
+Email: moderador@gmail.com
+Senha: 12345678
+
+
 
 ### Feito com
 
